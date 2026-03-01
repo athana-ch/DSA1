@@ -3,10 +3,18 @@
   "repository": {
     "name": "DSA1"
   },
-  "defaultDocument": "projects/001-crm-system/ARC-001-STKE-v1.0.md",
+  "defaultDocument": "projects/000-global/ARC-000-PRIN-v1.0.md",
   "guides": [],
   "roleGuides": [],
-  "global": [],
+  "global": [
+    {
+      "path": "projects/000-global/ARC-000-PRIN-v1.0.md",
+      "title": "Architecture Principles",
+      "category": "Architecture",
+      "documentId": "ARC-000-PRIN-v1.0",
+      "isDefault": true
+    }
+  ],
   "globalExternal": [],
   "globalPolicies": [],
   "projects": [
