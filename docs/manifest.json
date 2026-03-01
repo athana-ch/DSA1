@@ -1,0 +1,36 @@
+{
+  "generated": "2026-03-01T00:00:00Z",
+  "repository": {
+    "name": "DSA1"
+  },
+  "defaultDocument": "projects/001-crm-system/ARC-001-STKE-v1.0.md",
+  "guides": [],
+  "roleGuides": [],
+  "global": [],
+  "globalExternal": [],
+  "globalPolicies": [],
+  "projects": [
+    {
+      "id": "001-crm-system",
+      "name": "CRM System",
+      "documents": [
+        {
+          "path": "projects/001-crm-system/ARC-001-STKE-v1.0.md",
+          "title": "Stakeholder Drivers",
+          "category": "Discovery",
+          "documentId": "ARC-001-STKE-v1.0"
+        }
+      ],
+      "diagrams": [],
+      "research": [],
+      "decisions": [],
+      "wardleyMaps": [],
+      "dataContracts": [],
+      "reviews": [],
+      "vendors": [],
+      "vendorProfiles": [],
+      "techNotes": [],
+      "external": []
+    }
+  ]
+}
